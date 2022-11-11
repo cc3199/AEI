@@ -1,0 +1,11 @@
+@media screen and (max-width: 765px) {
+    #whattodonate {
+       width: 100%;
+       flex: none;
+    }
+
+    #whattodonateimage {
+        width: 100%;
+        flex: none;
+    }
+}
